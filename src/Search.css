@@ -1,0 +1,53 @@
+.header{
+    color: whitesmoke !important;
+    padding: 4px;
+}
+
+.content{
+    color: rgb(37, 37, 37);
+}
+body{
+    margin: 40px 270px;
+    font-size: 20px;
+    font-family: Montserrat;
+}
+a{
+    color: rgb(97, 41, 41) !important;
+    font-family: Montserrat;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+h1{
+    font-family: Montserrat;
+    font-size: 45px;
+    letter-spacing: .4px;
+    color: whitesmoke !important;
+    text-align: center;
+}
+
+span{
+    color:rgb(59, 23, 23);
+    padding: 4px;
+}
+
+.celled {
+    padding: 50px;
+    letter-spacing: .3px;
+    font-family: 'Montserrat';
+    background-color: rgba(255, 255, 255, 0.144) !important;
+}
+
+.output{
+    font-family: Montserrat;
+    font-size: 45px;
+    letter-spacing: .4px;
+    color: whitesmoke !important;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.116);
+    padding: 40px;
+    border-radius: 2px;
+}
+
+.item{
+    display: inline-block;
+}

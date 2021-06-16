@@ -1,0 +1,16 @@
+.ui{
+    color: rgb(160, 26, 26) !important;
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+body{
+    background-color: rgb(70, 108, 119);
+}
+
+
